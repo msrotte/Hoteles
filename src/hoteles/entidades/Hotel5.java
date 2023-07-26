@@ -9,4 +9,6 @@ public final class Hotel5 extends Hotel4 {
         super(precio, superficie, cantidadHabitaciones);
     }
  
+    //veo que onda
+    
 }
